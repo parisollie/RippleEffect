@@ -3,7 +3,7 @@
 //  RippleEffect
 //
 //  Created by Paul F on 27/07/25.
-//
+//  Actualizando
 
 #include <metal_stdlib>
 #include <SwiftUI/SwiftUI.h>
