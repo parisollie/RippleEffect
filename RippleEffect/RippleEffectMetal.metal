@@ -2,7 +2,7 @@
 //  RippleEffectMetal.metal
 //  RippleEffect
 //
-//  Created by Altuğ Nuri ASLANTAŞ on 2.10.2024.
+//  Created by Paul F on 27/07/25.
 //
 
 #include <metal_stdlib>
